@@ -1,2 +1,5 @@
 n = int(input())
 print("(Roma roma gay gay, roma roma roma gay) x", n)
+hbniuvfguifghfhuhdgudfuduuduhd
+dfkfogjdjgd
+udhuidiu d iu giudrgiuhd r
